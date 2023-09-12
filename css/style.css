@@ -6,4 +6,19 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(243, 243, 243);
+}
+
+header {
+    background-color: white;
+    padding: 7px 20px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+h1 {
+    vertical-align: middle;
+    display: inline-block;
 }
