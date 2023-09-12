@@ -22,3 +22,30 @@ h1 {
     vertical-align: middle;
     display: inline-block;
 }
+
+.conteiner-1 {
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 10px 50px 7px;
+}
+
+.button {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button.blue {
+    background-color: rgb(34, 174, 255); 
+    border-color: rgb(34, 174, 255);
+    border-style: none;
+    color: white; 
+}
+
+.button.white {
+    background-color: white;
+    border: 1px solid rgb(46, 46, 46);
+}
