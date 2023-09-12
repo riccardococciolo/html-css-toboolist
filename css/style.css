@@ -49,3 +49,71 @@ h1 {
     background-color: white;
     border: 1px solid rgb(46, 46, 46);
 }
+
+.conteiner-2 {
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 1px;
+    margin-bottom: 10%;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 25px 50px 7px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.circle.green {
+    color: green;
+    border-color: green;
+}
+
+.element {
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 16px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.element.blue {
+    background-color: skyblue;
+}
+
+.circle.red {
+    color: red;
+    border-color: red;
+}
+
+.element.purple {
+    background-color: purple;
+}
+
+.element.green {
+    background-color: green;
+}
+
+.element.orange {
+    background-color: orange;
+}
+
+.element.reddish-purple {
+    background-color: rgb(199, 64, 199);
+}
+
+.element.light-green {
+    background-color: lightgreen;
+}
